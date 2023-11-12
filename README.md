@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ulli-S
 - 👀 I’m interested in Midjourney
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning prompting
+- 💞️ I’m looking to collaborate on MJ prompting
 - 📫 How to reach me ...
 
 <!---
